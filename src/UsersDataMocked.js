@@ -2,7 +2,7 @@ const USER_MAIN_DATA = [
     {
       id: 12,
       userInfos: { firstName: "Karl", lastName: "Dovineau", age: 31 },
-      todayScore: 0.12,
+      todayScore: 0.90,
       keyData: {
         calorieCount: 1930,
         proteinCount: 155,

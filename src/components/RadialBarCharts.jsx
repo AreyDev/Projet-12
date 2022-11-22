@@ -49,7 +49,7 @@ const RadialBarCharts = ({ score }) => {
             barSize={10}
             data={data}
             startAngle={90}
-            endAngle={-270}
+            endAngle={450}
             innerRadius="0%"
             outerRadius="202%"
           >
